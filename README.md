@@ -1,15 +1,14 @@
-# Welcome to My GitHub Profile!
+# 😎Welcome to My GitHub Profile!
 
-🌙 **Dark Mode**: I recommend using GitHub in dark mode for a better viewing experience.
+🌙 **Dark Mode**: I recommend using GitHub in dark mode for a better viewing experience.<br>
+To enable dark mode:<br> 1. Click on your profile picture in the top right corner.<br>
+2. Select "Settings."<br>
+3. In the left sidebar, click on "Appearance."<br>
+4. Under the "Theme" dropdown, choose "Dark."<br>
 
-To enable dark mode:
-1. Click on your profile picture in the top right corner.
-2. Select "Settings."
-3. In the left sidebar, click on "Appearance."
-4. Under the "Theme" dropdown, choose "Dark."
-
-Enjoy the dark side of GitHub! 😎
-
+Enjoy the dark side of GitHub! 😉
+<br>
+<br>
 
 # 💫 About Me:
 🔭 I’m currently building a chatAPP. 📲💬<br>👯 I’m looking to collaborate on Open-source projects.<br>🌱 I’m currently learning Nextjs, Docker, AWS.<br>⚡ Fun fact-I love cp💖<br>💬 Happy to help you........
